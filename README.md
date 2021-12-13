@@ -9,3 +9,4 @@
 ## Part B: Intersection of two files ##
 
 * Program takes two text files from the command line as arguments and outputs the number of tokens they have in common.
+* Some test files have been provided (file1.txt, file2.txt, file3.txt, file4.txt).
